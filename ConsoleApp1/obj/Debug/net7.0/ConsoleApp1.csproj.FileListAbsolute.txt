@@ -1,0 +1,15 @@
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.sourcelink.json
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+F:\Hucenrotia_Project\Parse-link-from-text-by-C-code\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
